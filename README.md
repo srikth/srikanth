@@ -1,64 +1,91 @@
-# srikanth
-# 👋 Hi, I'm Srikanth Shanmugam
+# 👨‍💻 Srikanth Shanmugam  
+Electronics and Instrumentation Engineering Student | AI and Quantum Computing Enthusiast  
 
-🎓 Electronics & Instrumentation Engineering Graduate
-🤖 AI | Machine Learning | Quantum Computing Enthusiast
-🔬 Building Intelligent Scientific Systems using AI and Quantum Simulation
+## 🚀 About Me  
+I am an Electronics and Instrumentation Engineering student with a strong interest in Artificial Intelligence, Machine Learning, Computer Vision, Signal Processing, and Quantum Computing.  
 
----
+My work is driven by a curiosity to build intelligent systems while also exploring deeper scientific questions at the intersection of computation, physics, and complex natural systems. I enjoy connecting theory with real-world applications and using technology to better understand how the world works.  
 
-## 🧠 Research Interests
+## 🔬 Research Interests  
+Artificial Intelligence  
+Machine Learning  
+Computer Vision  
+Quantum Computing  
+Signal Processing  
+Physics-Inspired AI  
+Biology and Geospatial Applications  
+Scientific Research  
+Space Systems  
 
-* Quantum Machine Learning
-* Quantum Noise Modeling & Error Correction
-* Artificial Intelligence for Physical Systems
-* Scientific Machine Learning
-* Signal Processing & Intelligent Sensing
+## 🌌 Scientific Interests  
 
----
+### Natural Sciences  
+Physics  
+Chemistry  
+Astronomy  
+Astrophysics  
+Earth Sciences  
+Biology  
+Ecology  
+Evolutionary Biology  
+Volcanology  
 
-## 🚀 Featured Projects
+### Formal Sciences  
+Computer Science  
+Artificial Intelligence  
+Quantum Computing  
 
-### 🧬 Learning Quantum Noise Parameters
+### Applied Sciences  
+Engineering  
+Robotics  
+Nanotechnology  
+Bioinformatics  
+Computational Physics  
 
-Hybrid Quantum–AI framework using Kraus channel simulations and neural networks to estimate quantum noise characteristics.
+## 🧠 Projects  
 
-### ⚛️ Quantum Error Correction Simulation
+### Facial Emotion Recognition using CNN  
+I developed a deep learning model using Convolutional Neural Networks to classify human emotions from facial expressions. This project helped me gain hands-on experience in computer vision and real-time prediction systems.  
 
-Simulation of quantum error correction codes using Qiskit to study fault tolerance in quantum computation.
+### Smart Weather Station  
+I designed a smart environmental monitoring system that uses sensor fusion to collect and analyze atmospheric data in real time. This project strengthened my understanding of embedded systems and data-driven modeling.  
 
-### 📡 AI-Enhanced Aircraft Radar Control
+### AI-Assisted Radar Signal Processing  
+I explored how machine learning can be applied to radar signal analysis. This project focused on pattern recognition and improved my knowledge of signal processing and intelligent systems.  
 
-Machine learning–based radar signal enhancement for intelligent detection in noisy environments.
+## Quantum Noise Parameter Learning
 
-### 🌦 Smart Weather Station
+ Simulated quantum noise channels using Kraus operator models to analyze error behavior in quantum circuits. Developed a neural network model to learn quantum noise parameters from simulated data. Achieved parameter convergence within 50 training epochs using PyTorch & Qiskit.
+### Quantum Error Correction Simulation
 
-IoT-based environmental monitoring system integrating sensing, data collection, and analytics.
+ Implemented surface code quantum error correction using Qiskit to improve reliability of quantum computations. Simulated depolarizing noise conditions to analyze the effect of errors on quantum circuits.Achieved logical qubit fidelity greater than 95% after applying error correction techniques. Visualized error syndromes and correction patterns to understand error propagation and recovery.
+## 🛠️ Technical Skills  
+Programming: Python, C, C++,
+ML/AI: TensorFlow, OpenCV, Deep Learning, CNN
+Data Analysis & Visualization: NumPy, Pandas, Matplotlib, Seaborn
+Quantum Computing :Qiskit, Quantum Error Correction( surface code), Kraus Operators, Quantum Noise Modeling, IBM Quantum
+Platform, Azure Quantum Platform
+Concepts: Signal Processing, Embedded Systems, Scientific Computing  
+## 📜 Certifications  
+Advanced Data Structures  
+RSA and Quantum Algorithms by University of Colorado Boulder  
+Machine Learning with Python by IBM  
+Generative AI and LLMs by IBM  
+Introduction to Quantum Information by KAIST  
 
----
+##  Research Vision  
+My long-term goal is to work at the intersection of Artificial Intelligence and fundamental science. I am particularly interested in applying machine learning and quantum computing to problems in physics, astrophysics, and complex natural systems.  
 
-## 🛠️ Technical Skills
+I aim to contribute to research that advances both intelligent systems and our understanding of the universe  
 
-**Languages:** Python, Java, C
-**AI/ML:** Deep Learning, CNNs, Data Analysis
-**Quantum Computing:** Qiskit, Quantum Circuits, Noise Modeling
-**Tools:** Git, NumPy, Matplotlib, Linux
+##  Vision  
+While I am curious about many areas of science, my strongest interest lies in the natural sciences, especially physics, Earth sciences, and life sciences.  
 
----
+I am particularly fascinated by deep-space astrophysics and the fundamental questions about the origin, structure, and evolution of the universe.  
 
-## 📚 Currently Learning
+## 📫 Connect With Me  
+LinkedIn: https://www.linkedin.com/in/srikanth-shanmugam/
+GitHub: https://github.com/srikth
 
-* Quantum Machine Learning
-* Advanced Deep Learning Architectures
-* Quantum Error Mitigation Techniques
-
----
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/srikth
-* LinkedIn: (Add your LinkedIn URL)
-
----
-
-⭐ *Actively seeking research opportunities in AI and Quantum Computing.*
+## 💡 Motto  
+"Building intelligent systems while exploring the fundamental laws of nature."
