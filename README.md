@@ -87,5 +87,5 @@ I am particularly fascinated by deep-space astrophysics and the fundamental ques
 LinkedIn: https://www.linkedin.com/in/srikanth-shanmugam/
 GitHub: https://github.com/srikth
 
-## 💡 Motto  
-"Building intelligent systems while exploring the fundamental laws of nature."
+## 💡 Research Philosophy  
+"Use computation not just to build intelligent systems, but to understand the universe itself."
